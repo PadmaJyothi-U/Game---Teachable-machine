@@ -7,11 +7,8 @@ A snake game using teachable machine
 
 
 ## Link for execution
-(hhttps://ai-based-game.padmajyothi.repl.co/)
+(https://ai-based-game.padmajyothi.repl.co/)
 
-
-## Youtube link for my bot
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://youtu.be/X4pWJ2jluQ4)
 
 ## Images
 ![JInput](https://github.com/PadmaJyothi-U/Game---Teachable-machine/blob/main/Model%20input.PNG)
