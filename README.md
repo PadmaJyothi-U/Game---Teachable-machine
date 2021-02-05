@@ -9,9 +9,12 @@ A snake game using teachable machine
 ## Link for execution
 (https://ai-based-game.padmajyothi.repl.co/)
 
+## Youtube link
+https://youtu.be/G9dgv4vihGw
+
 
 ## Images
-![JInput](https://github.com/PadmaJyothi-U/Game---Teachable-machine/blob/main/Model%20input.PNG)
+![Input](https://github.com/PadmaJyothi-U/Game---Teachable-machine/blob/main/Model%20input.PNG)
 ![Output](https://github.com/PadmaJyothi-U/Game---Teachable-machine/blob/main/Output.PNG)
 
 
